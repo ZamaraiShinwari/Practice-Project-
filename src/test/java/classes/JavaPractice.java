@@ -8,6 +8,9 @@ public class JavaPractice {
 	String str = "Zamarai Shinwari";
 	char[] cha = str.toCharArray();
 	System.out.println(cha);
+	
+	
+	
 		
 
 	}
